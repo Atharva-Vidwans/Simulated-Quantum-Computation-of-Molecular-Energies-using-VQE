@@ -1,1 +1,1 @@
-# Simulated-Quantum-Computation-of-Molecular-Energies-using-VQE
+# Calculating the Ground State Energy of Hamiltonian using Variational Quantum EigenSolver

@@ -22,9 +22,8 @@ The portion that is done on the quantum computer involves simulation of the quan
 
 ##### Input:
 
-Hamiltonian of which the ground state energy is to be found out is given to the algorithm, 
+Hamiltonian of which the ground state energy is to be found out is given to the algorithm is shown in input file.
 
-H = (5.906709445000001) [I0] + (-4.286607049870561) [X0] + (-6.343290554999999) [Z0] 
 
 ### Result
 
